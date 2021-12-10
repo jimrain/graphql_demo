@@ -1,0 +1,6 @@
+name = "graphql_demo"
+description = "Demo of GraphQL at the edge."
+authors = ["Jim Rainville"]
+language = "rust"
+service_id = "0vD76JHpPK0Ql6TGpGjVHc"
+manifest_version = 2
